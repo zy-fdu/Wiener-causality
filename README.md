@@ -16,36 +16,36 @@ NOTE
 
 SUMMARY （Matlab2019a; PYTHON ver 3.5.6; pyecharts ver 1.8.1: https://github.com/pyecharts/pyecharts)
 
-1. Code for Wiener causality between two series without assessing its statistical significance (WienerCausality.m)
+file 1. Code for Wiener causality between two series without assessing its statistical significance (WienerCausality.m)
 
-    1.1 AR (auto-regression) and JR (joint-regression) model was trained to fit the time series.
+    step 1.1 AR (auto-regression) and JR (joint-regression) model was trained to fit the time series.
 
-    1.2 K-L divergence between error distribution derived from two regression model to assess the interdependence between time series
-
-
-2. Code for Wiener causality between mulitple time series and assessing the significance (Wienermain_batch.m)
-
-    2.1 Implementing the WienerCausality.m function to assess the pairwise K-L divergence.
-
-    2.2 Using Bootstrap with 100 repetitions to assess the significance of causal relation.
+    step 1.2 K-L divergence between error distribution derived from two regression model to assess the interdependence between time series
 
 
-3. Graphical User Interface (GUI) of Wiener causality calculation under MATLAB circumstances (WCbatch.m)
+file 2. Code for Wiener causality between mulitple time series and assessing the significance (Wienermain_batch.m)
 
-    3.1 Enter 'WCbatch' in the Command Window to initialize the GUI.
+    step 2.1 Implementing the WienerCausality.m function to assess the pairwise K-L divergence.
 
-    3.2 Click the button 'Load time series' to load time series matrix (in time * series format).
-
-    3.3 Click the button 'Calculate Wiener Causality' to calculate pairwise Wiener causality and assess the significance.
-
-    3.4 Click the button 'Statistics' and choose a certain pair to check the detail statistics of the Wiener causality.
+    step 2.2 Using Bootstrap with 100 repetitions to assess the significance of causal relation.
 
 
-4. COVID-19 propagation model given by Wiener causality (click on the each state/province to check the details of the propagation)
+file 3. Graphical User Interface (GUI) of Wiener causality calculation under MATLAB circumstances (WCbatch.m)
 
-    4.1 COVID-19 propagation pattern in China before 13th Feb. 2020.(Causality of China Covid-19(Former).html)
+    step 3.1 Enter 'WCbatch' in the Command Window to initialize the GUI.
 
-    4.2 COVID-19 propagation pattern in China after 13th Feb. 2020.(Causality of China Covid-19(Latter).html)
+    step 3.2 Click the button 'Load time series' to load time series matrix (in time * series format).
 
-    4.3 COVID-19 propagation pattern in the U.S.. (Covid19 of all states in America.html)
+    step 3.3 Click the button 'Calculate Wiener Causality' to calculate pairwise Wiener causality and assess the significance.
+
+    step 3.4 Click the button 'Statistics' and choose a certain pair to check the detail statistics of the Wiener causality.
+
+
+file 4. COVID-19 propagation model given by Wiener causality (click on the each state/province to check the details of the propagation)
+
+    file 4.1 COVID-19 propagation pattern in China before 13th Feb. 2020.(Causality of China Covid-19(Former).html)
+
+    file 4.2 COVID-19 propagation pattern in China after 13th Feb. 2020.(Causality of China Covid-19(Latter).html)
+
+    file 4.3 COVID-19 propagation pattern in the U.S.. (Covid19 of all states in America.html)
 
