@@ -41,11 +41,11 @@ file 3. Graphical User Interface (GUI) of Wiener causality calculation under MAT
     step 3.4 Click the button 'Statistics' and choose a certain pair to check the detail statistics of the Wiener causality.
 
 
-file 4. COVID-19 propagation model given by Wiener causality (click on the each state/province to check the details of the propagation)
+file 4. COVID-19 propagation model given by Wiener causality
 
-    file 4.1 COVID-19 propagation pattern in China before 13th Feb. 2020.(Causality of China Covid-19(Former).html)
+    filefolder 4.1 COVID-19 propagation pattern in China before 13th Feb. 2020.(folder: COVID19 in China before Feb 13)
 
-    file 4.2 COVID-19 propagation pattern in China after 13th Feb. 2020.(Causality of China Covid-19(Latter).html)
+    filefolder 4.2 COVID-19 propagation pattern in China after 13th Feb. 2020.(folder: COVID19 in China after Feb 13)
 
-    file 4.3 COVID-19 propagation pattern in the U.S.. (Covid19 of all states in America.html)
+    filefolder 4.3 COVID-19 propagation pattern in the United States. (folder: COVID19 in US)
 
