@@ -1,4 +1,4 @@
-#COVID-19 propagation pattern in China before 13th Feb. 2020.
+COVID-19 propagation pattern in China before 13th Feb. 2020.
 
 Main File: Causality of China Covid-19(Former).html
 
