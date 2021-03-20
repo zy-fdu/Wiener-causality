@@ -4,7 +4,7 @@ Key words: Wiener causality, Gaussian process regression, COVID-19
 
 NOTE
 
-1. Data used in the paper was public available
+1. Data used in the paper was public available.
 
 1.1 The confirmed accumulative cases of COVID-19 epidemic from 34 provinces and regions (excluding the Tibet) throughout the People’s Republic of China were acquired from the Creative Commons Attribution 4.0 International (CC BY 4.0) by the Johns Hopkins University on the behalf of its Center for Systems Science in Engineering at https://github.com/CSSEGISandData/COVID-19 29. Daily totals, from Jan. 22nd, 2020 to Mar. 28th, 2020, were used in our study.
 
